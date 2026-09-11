@@ -11,7 +11,7 @@
 5. whats on
 *what is your name
 - kya ha
-- kyu
+
 - what
 - how
 - why
